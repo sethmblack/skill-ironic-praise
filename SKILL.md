@@ -4,7 +4,7 @@ description: A rhetorical technique that compliments a target into absurdity, us
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4256
+  version: 1.0.4257
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
